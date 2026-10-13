@@ -1,0 +1,1 @@
+PROMPT = "Extract concepts from text."
